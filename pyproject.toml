@@ -3,7 +3,7 @@ name = "test-sentry-logs"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = "==3.10.11"
 dependencies = [
     "sentry-sdk>=2.29.1",
 ]
